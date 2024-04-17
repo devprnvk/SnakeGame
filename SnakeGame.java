@@ -3,7 +3,7 @@ public class SnakeGame {
         System.out.println("Hello world!");
 
         GameFrame frame = new GameFrame();
-
+ 
 
     }
 }
