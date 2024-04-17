@@ -4,6 +4,6 @@ public class SnakeGame {
 
         GameFrame frame = new GameFrame();
  
-
+        System.out.println("End of program.");
     }
 }
