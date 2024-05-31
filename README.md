@@ -1,6 +1,7 @@
 
 # SnakeGame
 
+![snakepic](https://github.com/devprnvk/SnakeGame/assets/65419691/47b32a1b-945d-4341-9626-cb29bcb82e9c)
 
 # Java Snake Game
 
