@@ -67,3 +67,5 @@ To get started with the Java Snake Game, you need to have Java installed on your
 Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request. Please ensure that your contributions adhere to the project's coding standards and include appropriate documentation.
 
 ## License 
+This project is licensed: (https://github.com/devprnvk/SnakeGame/blob/main/LICENSE.txt)
+
